@@ -56,6 +56,6 @@
 
 <details><summary><h2>Tecnologias Utilizadas :electric_plug:</h2></summary>
 <p align = "center">
-<img width="400" height="450" src="Imagens_projeto/tecnologias.png">
+<img width="480" height="500" src="Images/tecnologia.png">
 </p>
 </details>
