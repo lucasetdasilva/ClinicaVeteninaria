@@ -51,7 +51,7 @@
 <br>
 
 ## Cronograma:
-<img width="650" height="400" src="Imagens_projeto/Crono.png">
+<img width="650" height="400" src="Images/cronoo.png">
 <br>
 
 <details><summary><h2>Tecnologias Utilizadas :electric_plug:</h2></summary>
