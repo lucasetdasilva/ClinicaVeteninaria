@@ -76,6 +76,6 @@
 
 ## Diagrama de Entidade Relacional (DER):
 <p align = "center">
-<img width="480" height="500" src="Images/tecnologia.png">
+<img width="570" height="590" src="Images/der.png">
 </p>
 
