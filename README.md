@@ -74,6 +74,8 @@
 
 <br>
 
+<details><summary><h2>Modelagem de Dados </h2></summary>
+
 ## Diagrama de Entidade Relacional (DER):
 <p align = "center">
 <img width="570" height="590" src="Images/der.png">
@@ -85,3 +87,4 @@
 <p align = "center">
 <img width="750" height="650" src="Images/mer.png">
 </p>
+</details>
