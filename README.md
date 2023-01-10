@@ -45,3 +45,5 @@
 | `Alterar Consulta` | 3 |
 | `Visualizar Veteninários` | 2 |
 | `Excluir Veteninário` | 3 |
+
+### Prioridade: 1 - Imprescíndivel; 2 - Importante; 3 - Desejável.
