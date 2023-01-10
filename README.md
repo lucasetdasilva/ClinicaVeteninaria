@@ -27,4 +27,21 @@
 
 | Requisito | Prioridade |
 | --- | --- |
-| `A desenvolver` | A desenvolver |
+| `Cadastrar Administrador` | 1 |
+| `Autentificar Administrador` | 1 |
+| `Cadastrar Veteninário` | 1 |
+| `Autentificar Veteninário` | 1 |
+| `Cadastrar Responsável` | 1 |
+| `Autentificar Responsável` | 1 |
+| `Cadastrar Espécie de Animal` | 1 |
+| `Cadastrar Animal` | 1 |
+| `Cadastrar Remédios` | 2 |
+| `Marcar Consulta` | 1 |
+| `Adicionar Receita da Consulta` | 2 |
+| `Cadastrar Vacina` | 2 |
+| `Adicionar Vacina a Caderneta` | 2 |
+| `Visualizar Caderneta do Animal` | 2 |
+| `Visualizar Consultas` | 3 |
+| `Alterar Consulta` | 3 |
+| `Visualizar Veteninários` | 2 |
+| `Excluir Veteninário` | 3 |
