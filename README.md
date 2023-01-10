@@ -47,3 +47,15 @@
 | `Excluir Veteninário` | 3 |
 
 ### Prioridade: 1 - Imprescíndivel; 2 - Importante; 3 - Desejável.
+
+<br>
+
+## Cronograma:
+<img width="650" height="400" src="Imagens_projeto/Crono.png">
+<br>
+
+<details><summary><h2>Tecnologias Utilizadas :electric_plug:</h2></summary>
+<p align = "center">
+<img width="500" height="400" src="Imagens_projeto/tecnologias.png">
+</p>
+</details>
