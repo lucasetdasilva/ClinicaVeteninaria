@@ -88,3 +88,14 @@
 <img width="750" height="650" src="Images/mer.png">
 </p>
 </details>
+<br>
+
+## 🏁 Sprint Backlog da 1ª Sprint (09/01 - 29/01)
+
+ - Cadastrar Administrador; 
+ - Autentificar Administrador;
+ - Cadastrar Veteninário;
+ - Autentificar Veteninário;
+ - Cadastrar Responsável;
+ - Autentificar Responsável.
+<br>
