@@ -79,3 +79,9 @@
 <img width="570" height="590" src="Images/der.png">
 </p>
 
+<br>
+
+## Modelo de Entidade Relacional (MER):
+<p align = "center">
+<img width="570" height="590" src="Images/der.png">
+</p>
