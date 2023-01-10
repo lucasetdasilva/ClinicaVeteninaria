@@ -51,11 +51,11 @@
 <br>
 
 ## Cronograma:
-<img width="650" height="400" src="Images/cronoo.png">
+<img width="400" height="400" src="Images/cronoo.png">
 <br>
 
 <details><summary><h2>Tecnologias Utilizadas :electric_plug:</h2></summary>
 <p align = "center">
-<img width="500" height="400" src="Imagens_projeto/tecnologias.png">
+<img width="400" height="450" src="Imagens_projeto/tecnologias.png">
 </p>
 </details>
