@@ -24,7 +24,6 @@
 <br><br>
 
 ## :page_facing_up: Backlog do Produto:
-
 | Requisito | Prioridade |
 | --- | --- |
 | `Cadastrar Administrador` | 1 |
