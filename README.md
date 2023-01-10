@@ -23,7 +23,7 @@
 
 <br><br>
 
-## Backlog do Produto:
+## :page_facing_up: Backlog do Produto:
 
 | Requisito | Prioridade |
 | --- | --- |
