@@ -59,3 +59,18 @@
 <img width="480" height="500" src="Images/tecnologia.png">
 </p>
 </details>
+<br>
+
+<details><summary><h2>Users Storys </h2></summary>
+
+  ## Sprint 1:
+  
+  * Como __Administrador__ desejo __me cadastrar no sistema__ para __realizar minhas devidas atividades__;
+  * Como __Administrador__ desejo __me autentificar no sistema__ para __conseguir ter acesso as ações da aplicação__;
+  * Como __Veteninário__ desejo __me cadastrar no sistema__ para __realizar minhas devidas atividades__;
+  * Como __Veteninário__ desejo __me autentificar no sistema__ para __conseguir ter acesso as ações da aplicação__;
+  * Como __Responsável do Animal__ desejo __me cadastrar no sistema__ para __poder cadastrar meus animais e ver as consultas__;
+  * Como __Responsável do Animal__ desejo __me autentificar no sistema__ para __conseguir ter acesso a aplicação e suas respectivas funções__.
+  
+  
+</details>
