@@ -13,8 +13,18 @@
 * Para o gerenciamento das tarefas será necessário utilizar uma metodologia ágil, no caso o Scrum juntamente com o Kanban;
 * Ao final do Projeto é esperado uma aplicação eficaz e de alta qualidade, que poderá ser vendida para empresas/terceiras.
 
+<br><br>
+
+## Integrante do Projeto:
+
+| Nome | Função |
+| --- | --- |
+| `Lucas Emanoel Teixeira Engracio da Silva` | Product Owner, Scrum Master e DEV |
 
 <br><br>
 
 ## Backlog do Produto:
 
+| Requisito | Prioridade |
+| --- | --- |
+| `A desenvolver` | A desenvolver |
