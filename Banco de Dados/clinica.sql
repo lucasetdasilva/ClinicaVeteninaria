@@ -51,8 +51,10 @@ foreign key (fk_id_remedio) references Remedio(id)
 );
 
 create table Administrador(
-id int auto_increment primary key not null,
-nome varchar(20) not null
+cpf varchar(14) primary key not null,
+nome varchar(20) not null,
+email varchar(40) not null,
+senha text not null  
 );
 
 create table Consulta(
