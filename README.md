@@ -21,7 +21,15 @@
 | --- | --- |
 | `Lucas Emanoel Teixeira Engracio da Silva` | Product Owner, Scrum Master e DEV |
 
-<br><br>
+<br>
+
+## Meu Linkedin
+
+<div>
+<a href="https://br.linkedin.com/in/lucas-emanoel-teixeira-engracio-da-silva-ab5611234?trk=public_profile_browsemap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br>
 
 ## :page_facing_up: Backlog do Produto:
 | Requisito | Prioridade |
