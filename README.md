@@ -78,6 +78,16 @@
   * Como __Veteninário__ desejo __me autentificar no sistema__ para __conseguir ter acesso as ações da aplicação__;
   * Como __Responsável do Animal__ desejo __me cadastrar no sistema__ para __poder cadastrar meus animais e ver as consultas__;
   * Como __Responsável do Animal__ desejo __me autentificar no sistema__ para __conseguir ter acesso a aplicação e suas respectivas funções__.
+  
+  <br>
+  
+  ## Sprint 2:
+  
+  * Como __Administrador__ desejo __cadastrar espécies de animais__ para __que o responsável consiga cadastrar seus animais__.
+  * Como __Responsável do Animal__cadastrar meus animais__ para __que o veteninário possa examiná-los__.
+  * Como __Administrador__ desejo __cadastrar remédios__ para __que os veteninários possam anexá-los na receita da consulta do animal__.
+  * Como __Veteninário__ desejo __marcar consultas__ para __examinar os animais e tomar as medidas mais cabíveis__;
+  
 </details>
 
 <br>
@@ -107,3 +117,11 @@
  - Cadastrar Responsável;
  - Autentificar Responsável.
 <br>
+
+## 🏁 Sprint Backlog da 2ª Sprint (30/01 - 19/01]2)
+
+- Cadastrar Espécie de Animal;
+- Cadastrar Animal;
+- Cadastrar Remédios;
+- Marcar Consulta.
+<br
