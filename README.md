@@ -118,7 +118,7 @@
  - Autentificar Responsável.
 <br>
 
-## 🏁 Sprint Backlog da 2ª Sprint (30/01 - 19/01]2)
+## 🏁 Sprint Backlog da 2ª Sprint (30/01 - 19/02)
 
 - Cadastrar Espécie de Animal;
 - Cadastrar Animal;
