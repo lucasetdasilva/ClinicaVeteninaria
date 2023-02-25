@@ -76,6 +76,7 @@ nome_vacina varchar(30) not null
 create table Caderneta(
 fk_id_vacina varchar(30) not null,
 fk_animal int not null,
+dia_aplicacao date not null,
 primary key(fk_id_vacina,fk_animal),
 foreign key (fk_id_vacina) references Vacina(id_vacina),
 foreign key (fk_animal) references Animal(id) 
